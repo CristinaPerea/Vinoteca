@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Baccus</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="wine_image_description">Esta es una imagen que representa un vino</string>
+    <string name="reload">Recargar</string>
+    <string name="choose_an_option">Elige una opción</string>
+    <string name="fit">Ajustada</string>
+    <string name="center">Centrada</string>
+    <string name="cancel">Cancelar</string>
+    <string name="save">Guardar</string>
+    <string name="title_activity_winery">WineryActivity</string>
+</resources>
+
+
+
